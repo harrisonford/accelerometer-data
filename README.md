@@ -8,12 +8,11 @@ Short library that converts raw accelerometer data into light files such as JSON
 If you don't know much about python or jupyter it's highly recommended to paste this repository link 
 to binder and interact with the code, you can do that if you press this pink button:
 
-TODO: ARREGLAR BOTONNNN
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/harrisonford/AkoriSalienceNotebooks/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/harrisonford/accelerometer-data/master)
 
 ### Prerequisites
 
-TODO: kTo run and modify this project locally, know that this project is updated to always work with the
+To run and modify this project locally, know that this project is updated to always work with the
 latest version of Python 3 with modules such as numpy, scipy, pillow... the usual stuff. Every package 
 needed can be found on it's _requirements.txt_ file, because of this all you need is pip to start.
 
