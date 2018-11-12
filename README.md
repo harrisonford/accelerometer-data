@@ -29,8 +29,8 @@ their docs here.](https://packaging.python.org/guides/installing-using-pip-and-v
 
 ## Contributing
 
-- [harrisonford](www.github.com/harrisonford/)
-- [Naranjaconalmibar](www.github.com/Naranjaconalmibar/)
+- [harrisonford](https://github.com/harrisonford/)
+- [Naranjaconalmibar](https://github.com/Naranjaconalmibar)
 
 
 ## Authors
