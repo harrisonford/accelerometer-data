@@ -9,7 +9,7 @@ If you don't know much about python or jupyter it's highly recommended to paste 
 to binder and interact with the code, you can do that if you press this pink button:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/harrisonford/accelerometer-data/master)
-
+https://github.com/harrisonford/accelerometer-data
 ### Prerequisites
 
 To run and modify this project locally, know that this project is updated to always work with the
