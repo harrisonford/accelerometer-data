@@ -46,7 +46,8 @@ Send2Trash==1.5.0
 simplegeneric==0.8.1
 six==1.11.0
 sklearn==0.0
-statsmodels==0.10.0rc2+43.g1fbc9de
+statsmodels==0.10.1
+style==1.1.0
 terminado==0.8.1
 testpath==0.4.2
 tornado==5.1.1
